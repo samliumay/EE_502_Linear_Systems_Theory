@@ -17,22 +17,22 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 
 | Lecture | Topic | Check questions |
 |---|---|---|
-| L01 | [Mathematical description of systems](<lessons/EE502 L01 - Mathematical description of systems.md>) | not yet |
-| L02 | [LTI models and linearization](<lessons/EE502 L02 - LTI models and linearization.md>) | not yet |
-| L03 | [Vector spaces, norms and rank](<lessons/EE502 L03 - Vector spaces, norms and rank.md>) | not yet |
-| L04 | [Equations, eigenvalues, diagonalization](<lessons/EE502 L04 - Equations, eigenvalues, diagonalization.md>) | not yet |
-| L05 | [Functions of a matrix](<lessons/EE502 L05 - Functions of a matrix.md>) | not yet |
-| L06 | [Matrix exponential](<lessons/EE502 L06 - Matrix exponential.md>) | not yet |
-| L07 | [Jordan form](<lessons/EE502 L07 - Jordan form.md>) | not yet |
-| L08 | [Positive definiteness and SVD](<lessons/EE502 L08 - Positive definiteness and SVD.md>) | not yet |
-| L09 | [LTI state equation solution](<lessons/EE502 L09 - LTI state equation solution.md>) | not yet |
-| L10 | [LTV state equation solution](<lessons/EE502 L10 - LTV state equation solution.md>) | not yet |
-| L11 | [Equivalence and realization](<lessons/EE502 L11 - Equivalence and realization.md>) | not yet |
-| L12 | [Stability](<lessons/EE502 L12 - Stability.md>) | not yet |
-| L13 | [Controllability](<lessons/EE502 L13 - Controllability.md>) | not yet |
-| L14 | [Observability](<lessons/EE502 L14 - Observability.md>) | not yet |
+| L01 | [Mathematical description of systems](<lessons/EE502 L01 - Mathematical description of systems.md>) | 9 |
+| L02 | [LTI models and linearization](<lessons/EE502 L02 - LTI models and linearization.md>) | 21 |
+| L03 | [Vector spaces, norms and rank](<lessons/EE502 L03 - Vector spaces, norms and rank.md>) | 10 |
+| L04 | [Equations, eigenvalues, diagonalization](<lessons/EE502 L04 - Equations, eigenvalues, diagonalization.md>) | 14 |
+| L05 | [Functions of a matrix](<lessons/EE502 L05 - Functions of a matrix.md>) | 12 |
+| L06 | [Matrix exponential](<lessons/EE502 L06 - Matrix exponential.md>) | 11 |
+| L07 | [Jordan form](<lessons/EE502 L07 - Jordan form.md>) | 15 |
+| L08 | [Positive definiteness and SVD](<lessons/EE502 L08 - Positive definiteness and SVD.md>) | 12 |
+| L09 | [LTI state equation solution](<lessons/EE502 L09 - LTI state equation solution.md>) | 8 |
+| L10 | [LTV state equation solution](<lessons/EE502 L10 - LTV state equation solution.md>) | 13 |
+| L11 | [Equivalence and realization](<lessons/EE502 L11 - Equivalence and realization.md>) | 15 |
+| L12 | [Stability](<lessons/EE502 L12 - Stability.md>) | 16 |
+| L13 | [Controllability](<lessons/EE502 L13 - Controllability.md>) | 19 |
+| L14 | [Observability](<lessons/EE502 L14 - Observability.md>) | 17 |
 
-14 lessons, 0 check questions, 225 slide images.
+14 lessons, 192 check questions, 225 slide images.
 
 ## Folders
 
