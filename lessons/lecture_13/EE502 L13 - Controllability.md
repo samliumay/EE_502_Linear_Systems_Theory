@@ -296,5 +296,6 @@ If $\operatorname{rank}\begin{bmatrix}M_0(t_1)&M_1(t_1)&\cdots&M_{n-1}(t_1)\end{
 - Used later in: [[EE502 L15 - State feedback (extra)]] (eigenvalue assignment needs controllability)
 - Full step-by-step notes (PDF): [EE502_Lecture_13_Controllability.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_13/EE502_Lecture_13_Controllability.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_13/EE502_Lecture_13_Controllability.pdf`
 - Original slides (PDF, pp. 130-139 and 153-159): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L13 - Controllability - quiz]]
 
 Slides not embedded: 130, 153 (section titles).
