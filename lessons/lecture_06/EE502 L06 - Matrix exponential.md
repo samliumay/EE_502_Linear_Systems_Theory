@@ -206,5 +206,6 @@ The entries of $e^{At}$ are combinations of the modes $t^je^{\lambda_it}$ with $
 - Used by the midterm and by every later lecture on the solution of state equations.
 - Full step-by-step notes (PDF): [EE502_Lecture_06_Matrix_Exponential.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_06/EE502_Lecture_06_Matrix_Exponential.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_06/EE502_Lecture_06_Matrix_Exponential.pdf`
 - Original slides (PDF, pp. 78-80): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L06 - Matrix exponential - quiz]]
 
 Slides not embedded: none.
