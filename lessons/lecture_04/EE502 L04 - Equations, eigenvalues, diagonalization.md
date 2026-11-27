@@ -311,5 +311,6 @@ Only one eigenvector for the double eigenvalue 1 (nullity 1 < 2). No diagonal fo
 - Used by Quiz 3 (12 Nov, no calculator, slides 36-64) and the midterm.
 - Full step-by-step notes (PDF): [EE502_Lecture_04_Equations_Eigenvalues.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_04/EE502_Lecture_04_Equations_Eigenvalues.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_04/EE502_Lecture_04_Equations_Eigenvalues.pdf`
 - Original slides (PDF, pp. 47-60): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L04 - Equations, eigenvalues, diagonalization - quiz]]
 
 Slides not embedded: none.
