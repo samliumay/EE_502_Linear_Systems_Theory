@@ -332,6 +332,7 @@ Both kinds of stability are kept by Lyapunov transformations (slide exercise): $
 - Needs: [[EE502 L08 - Positive definiteness and SVD]] (positive definite $M$), [[EE502 L10 - LTV state equation solution]] ($\Phi$)
 - Full step-by-step notes (PDF): [EE502_Lecture_12_Stability.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_12/EE502_Lecture_12_Stability.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_12/EE502_Lecture_12_Stability.pdf`
 - Original slides (PDF, pp. 114-129): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L12 - Stability - quiz]]
 
 Our notes also cover discrete-time stability (unit disk, $A^{\mathsf T}MA-M=-N$), which is not on these slides. See the PDF.
 
