@@ -249,5 +249,6 @@ $$\mathbf{x}[k]=\Phi[k,k_0]\mathbf{x}_0+\sum_{m=k_0}^{k-1}\Phi[k,m+1]B[m]\mathbf
 - Used later in: [[EE502 L12 - Stability]], [[EE502 L13 - Controllability]], [[EE502 L14 - Observability]] (Gramians)
 - Full step-by-step notes (PDF): [EE502_Lecture_10_LTV_Solution.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_10/EE502_Lecture_10_LTV_Solution.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_10/EE502_Lecture_10_LTV_Solution.pdf`
 - Original slides (PDF, pp. 103-109): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L10 - LTV state equation solution - quiz]]
 
 Slides not embedded: 103 (section title).
