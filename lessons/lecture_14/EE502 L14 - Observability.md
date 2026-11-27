@@ -292,5 +292,6 @@ Slide exercise: Chen's Gramian uses $\Phi(\tau,t_0)$ instead of $\Phi(\tau,t)$. 
 - Needs: [[EE502 L11 - Equivalence and realization]] (change of state, canonical forms)
 - Full step-by-step notes (PDF): [EE502_Lecture_14_Observability.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_14/EE502_Lecture_14_Observability.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_14/EE502_Lecture_14_Observability.pdf`
 - Original slides (PDF, pp. 140-152 and 160-162): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L14 - Observability - quiz]]
 
 Slides not embedded: 140, 160 (section titles).
