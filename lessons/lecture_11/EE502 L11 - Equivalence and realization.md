@@ -295,5 +295,6 @@ Stability test for a periodic system (our notes): the eigenvalues of the monodro
 - Used later in: [[EE502 L13 - Controllability]], [[EE502 L14 - Observability]] (minimal realizations, canonical forms), [[EE502 L15 - State feedback (extra)]]
 - Full step-by-step notes (PDF): [EE502_Lecture_11_Equivalence_Realization.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_11/EE502_Lecture_11_Equivalence_Realization.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_11/EE502_Lecture_11_Equivalence_Realization.pdf`
 - Original slides (PDF, pp. 94-102 and 110-113): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L11 - Equivalence and realization - quiz]]
 
 Slides not embedded: 97 (section title).
