@@ -214,5 +214,6 @@ If $A$ is nonsingular, $B_d=A^{-1}(A_d-I)B$. $C$ and $D$ do not change. Eigenval
 - Used later in: [[EE502 L11 - Equivalence and realization]], [[EE502 L12 - Stability]], [[EE502 L13 - Controllability]], [[EE502 L14 - Observability]]
 - Full step-by-step notes (PDF): [EE502_Lecture_09_LTI_Solution.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_09/EE502_Lecture_09_LTI_Solution.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_09/EE502_Lecture_09_LTI_Solution.pdf`
 - Original slides (PDF, pp. 89-93): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L09 - LTI state equation solution - quiz]]
 
 Slides not embedded: 89 (section title).
