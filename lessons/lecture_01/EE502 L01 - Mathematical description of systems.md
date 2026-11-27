@@ -225,5 +225,6 @@ The bottom of the slide states linearity (superposition of states and inputs). I
 - Used by Quiz 1 (modelling), together with the state-space part of Lecture 2.
 - Full step-by-step notes (PDF): [EE502_Lecture_01_Systems.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_01/EE502_Lecture_01_Systems.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_01/EE502_Lecture_01_Systems.pdf`
 - Original slides (PDF, pp. 1-11): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L01 - Mathematical description of systems - quiz]]
 
 Slides not embedded: 1, 5 (title pages).
