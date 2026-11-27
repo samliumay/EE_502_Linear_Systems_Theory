@@ -267,5 +267,6 @@ To produce a generalized eigenvector from an eigenvector, solve $(A-\lambda_iI)\
 - Full step-by-step notes (PDF): [EE502_Lecture_07_Jordan_Form.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_07/EE502_Lecture_07_Jordan_Form.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_07/EE502_Lecture_07_Jordan_Form.pdf`
 - Original slides (PDF, pp. 61-67): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
 - Jordan-form handout (PDF, 5 pages): [jordanFormExplanation2.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/jordanFormExplanation2.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/jordanFormExplanation2.pdf`
+- Quiz: [[EE502 L07 - Jordan form - quiz]]
 
 Slides not embedded: handout page 1 (title page).
