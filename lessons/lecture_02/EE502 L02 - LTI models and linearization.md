@@ -424,5 +424,6 @@ The Jacobian method about $\mathbf{x}_o=\mathbf{0}$, $u_o=0$ gives the same matr
 - Used by Quiz 1 (state space and transfer functions of the two models) and Quiz 2 (slides 15-35: impulse response, transfer functions, state space, linearization).
 - Full step-by-step notes (PDF): [EE502_Lecture_02_LTI_Models.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_02/EE502_Lecture_02_LTI_Models.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_02/EE502_Lecture_02_LTI_Models.pdf`
 - Original slides (PDF, pp. 12-35): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L02 - LTI models and linearization - quiz]]
 
 Slides not embedded: 12, 13, 14 (title, topic list repeated, chapter title).
