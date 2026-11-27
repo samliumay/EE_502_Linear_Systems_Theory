@@ -235,3 +235,4 @@ Remark 2 of the slide: the columns of $Q$ are eigenvectors of $H^{\mathsf T}H$, 
 - Used later in: [[EE502 L12 - Stability]] (Lyapunov functions), [[EE502 L13 - Controllability]] and [[EE502 L14 - Observability]] (Gramians)
 - Full step-by-step notes (PDF): [EE502_Lecture_08_PosDef_SVD.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_08/EE502_Lecture_08_PosDef_SVD.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_08/EE502_Lecture_08_PosDef_SVD.pdf`
 - Original slides (PDF, pp. 81-88): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L08 - Positive definiteness and SVD - quiz]]
