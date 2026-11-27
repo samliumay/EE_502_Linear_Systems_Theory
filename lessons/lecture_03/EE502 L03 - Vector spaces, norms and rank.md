@@ -260,5 +260,6 @@ Proof idea: multiply (1) on the right by $\begin{bmatrix}-B\\ I_{n-r}\end{bmatri
 - Used by Quiz 3 (12 Nov, no calculator, slides 36-64) and the midterm.
 - Full step-by-step notes (PDF): [EE502_Lecture_03_Vector_Spaces_Rank.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_03/EE502_Lecture_03_Vector_Spaces_Rank.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_03/EE502_Lecture_03_Vector_Spaces_Rank.pdf`
 - Original slides (PDF, pp. 36-46): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L03 - Vector spaces, norms and rank - quiz]]
 
 Slides not embedded: 36 (section title).
