@@ -270,5 +270,6 @@ General rule for a $k\times k$ Jordan block: $f^{(j)}(\lambda_1)/j!$ on the $j$-
 - Used by the midterm. The Quiz 2 revision pack for slides 36-79 (rank, eigen, $f(A)$, Cayley-Hamilton) is kept for Quiz 3 and the midterm.
 - Full step-by-step notes (PDF): [EE502_Lecture_05_Matrix_Functions.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_05/EE502_Lecture_05_Matrix_Functions.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lecture_notes/lecture_05/EE502_Lecture_05_Matrix_Functions.pdf`
 - Original slides (PDF, pp. 68-77): [EEE501AllLectureNotesABO.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/ee_502/lectures/EEE501AllLectureNotesABO.pdf`
+- Quiz: [[EE502 L05 - Functions of a matrix - quiz]]
 
 Slides not embedded: 68 (section title).
